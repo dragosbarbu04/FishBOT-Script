@@ -8,7 +8,7 @@ The repository contains two main bots:
 
 ---
 
-## Bots Overview 🤖
+## Bots Overview
 
 ### 1. Skyfish Bot (`skyfish.py`)
 This bot is designed for a dynamic minigame where the player must keep an icon within a specific zone. It works by constantly analyzing a vertical region of the screen.
@@ -28,7 +28,7 @@ This bot is for a more straightforward waiting game. It automates the process of
 
 ---
 
-## Technologies Used 🛠️
+## Technologies Used
 
 * **Language:** Python
 * **Automation/Control:** `pyautogui` (for mouse control and key presses), `keyboard` (for global hotkey listening)
@@ -38,7 +38,7 @@ This bot is for a more straightforward waiting game. It automates the process of
 
 ---
 
-## How to Use ▶️
+## How to Use 
 
 Each bot is launched using its corresponding `main` script, which sets up a global hotkey to start and stop the automation.
 
@@ -66,7 +66,7 @@ Once the script is running, press **`CTRL + Q`** to toggle the bot ON or OFF. Yo
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 These scripts are highly dependent on screen resolution, in-game UI element positions, and specific colors. The coordinates and RGB values are hard-coded for a particular setup.
 
